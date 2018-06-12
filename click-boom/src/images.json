@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://image.ibb.co/hybwXy/Empire.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://image.ibb.co/iUQC5J/freedom_tower.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://image.ibb.co/gHTX5J/Trump_Tower.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://image.ibb.co/fOgVsy/Patronas_Towers.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://image.ibb.co/cHj5QJ/THe_Gherkin.png",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "image": "https://image.ibb.co/eCdbXy/Burj_Khalifa.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://image.ibb.co/jpdzkJ/Shanghai_tower.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://image.ibb.co/mETzkJ/nyc.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://image.ibb.co/i8VZKd/dubai_hotel.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://image.ibb.co/ditX5J/the_pinnacle.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://image.ibb.co/fdsgzd/Willis_Tower.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://image.ibb.co/fW1MXy/Frost_Bank_Tower.png",
+        "clicked": false
+    }
+]
